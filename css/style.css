@@ -7,6 +7,34 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+.center{
+  align-content: center;
+}
+.spacer{
+  height: 50px;
+}
+.hover:hover{
+  border: solid 1px #CCC;
+  -moz-box-shadow: 7px 7px 0px #999;
+  -webkit-box-shadow: 7px 7px 0px #999;
+      box-shadow: 7px 7px 0px #999;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* -------------------------------------------------------------- */
 body {
   background: #fff;
   color: #666666;
