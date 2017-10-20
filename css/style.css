@@ -11,7 +11,7 @@
   align-content: center;
 }
 .spacer{
-  height: 50px;
+  height: 100px;
 }
 .hover:hover{
   border: solid 1px #CCC;
